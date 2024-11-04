@@ -25,7 +25,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/expo-webview-wrapper.git
+   git clone https://github.com/v-Shivaprasad/expo-webView-Wrapper.git
    cd expo-webview-wrapper
    ```
 

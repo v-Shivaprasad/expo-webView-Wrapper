@@ -5,7 +5,7 @@ import { WebView } from "react-native-webview";
 export default function App() {
   return (
     <View style={styles.container}>
-      <WebView source={{ uri: "https://chat-with-ml.netlify.app/" }} />
+      <WebView source={{ uri: "https://your-website-url.com" }} />
     </View>
   );
 }
